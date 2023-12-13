@@ -1,3 +1,3 @@
 # GifExpertApp
 
-este es mi repositorio de gifs en React
+Este es mi repositorio de gifs en ReactJS
